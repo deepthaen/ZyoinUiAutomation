@@ -1,0 +1,1411 @@
+2024-06-20 20:15:11 ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_126
+2024-06-20 20:15:11 WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_126 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_126)
+2024-06-20 20:15:11 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/harikrishnarecharla/.cache/selenium/chromedriver/mac64/114.0.5735.90/chromedriver
+2024-06-20 20:15:11 ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_126
+2024-06-20 20:15:11 WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_126 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_126)
+2024-06-20 20:15:11 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/harikrishnarecharla/.cache/selenium/chromedriver/mac64/114.0.5735.90/chromedriver
+2024-06-20 20:15:11 ERROR i.g.bonigarcia.wdm.online.HttpClient - Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_126
+2024-06-20 20:15:11 WARN  i.g.b.wdm.versions.VersionDetector - Exception reading https://chromedriver.storage.googleapis.com/LATEST_RELEASE_126 to get latest version of chromedriver (Error HTTP 404 executing https://chromedriver.storage.googleapis.com/LATEST_RELEASE_126)
+2024-06-20 20:15:11 INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/harikrishnarecharla/.cache/selenium/chromedriver/mac64/114.0.5735.90/chromedriver
+2024-06-20 20:15:16 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:15:16 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:15:16 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:15:16 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:15:16 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:15:16 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:17:48 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:17:48 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:17:48 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:17:49 INFO  pages.AmazonHomePage - Entering search term: Headphones
+2024-06-20 20:17:50 INFO  pages.AmazonHomePage - Entering search term: Laptop
+2024-06-20 20:17:50 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:17:50 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:17:50 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:17:50 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:17:51 INFO  pages.AmazonHomePage - Entering search term: Monitor
+2024-06-20 20:17:51 INFO  pages.AmazonHomePage - Clicking search button
+2024-06-20 20:17:53 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 20:18:03 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:18:03 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:20:56 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:20:56 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:20:56 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:20:58 INFO  pages.AmazonHomePage - Entering search term: Headphones
+2024-06-20 20:20:58 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:20:59 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:21:00 INFO  pages.AmazonHomePage - Entering search term: Laptop
+2024-06-20 20:21:00 INFO  pages.AmazonHomePage - Clicking search button
+2024-06-20 20:21:01 INFO  pages.AmazonHomePage - Entering search term: Monitor
+2024-06-20 20:21:01 INFO  pages.AmazonHomePage - Clicking search button
+2024-06-20 20:21:03 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:21:03 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:21:04 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 20:21:14 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:21:15 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:26:23 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:26:23 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:26:23 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:26:24 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:26:25 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:26:25 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:26:28 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 20:26:38 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:26:38 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:28:40 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:28:40 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:28:40 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:28:41 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:28:44 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:28:44 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:28:44 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:28:44 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:28:44 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:30:11 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:30:11 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:30:11 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:30:18 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 20:30:19 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 20:30:19 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:30:20 WARN  o.a.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-06-20 20:30:20 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:30:29 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:30:29 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:30:29 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:30:29 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:31:08 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:31:08 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:31:08 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:31:10 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:31:11 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:31:13 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:31:13 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:31:15 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 20:31:25 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:31:25 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:32:41 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:32:41 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:32:41 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:32:43 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:32:43 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:32:43 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:32:43 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:32:44 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:32:44 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:34:24 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:34:24 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:34:24 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:34:26 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:34:27 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:34:31 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:34:31 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:34:31 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:39:36 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:39:37 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:39:38 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:45:44 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:45:45 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:45:45 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:46:06 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:46:10 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 20:46:20 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:46:20 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:50:08 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:50:12 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 20:50:22 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:50:23 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:51:41 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:51:42 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:51:42 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:51:49 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:51:51 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:51:51 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 20:51:59 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 20:52:25 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 20:52:35 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 20:52:35 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:03:31 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.com
+2024-06-20 21:03:40 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:03:50 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:03:51 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:03:56 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:04:00 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:04:00 INFO  steps.AddItemToCartSteps - Switched to new window: 9893120D3ED6B1DFB2BA454A7B3162B4
+2024-06-20 21:04:10 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:04:10 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:09:43 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:09:47 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:09:47 INFO  steps.AddItemToCartSteps - Switched to new window: 3B0FF5D4CBB464C7A42CABF096B76DD4
+2024-06-20 21:09:51 INFO  steps.AddItemToCartSteps - Product price: 14,299.00
+2024-06-20 21:09:52 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:09:53 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:10:16 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:10:20 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:10:20 INFO  steps.AddItemToCartSteps - Switched to new window: CAE90F07FB56A931609C6C987121DA38
+2024-06-20 21:10:46 INFO  steps.AddItemToCartSteps - Product price: 10,498.00
+2024-06-20 21:11:09 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 21:11:20 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:11:21 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:12:24 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:12:28 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:12:28 INFO  steps.AddItemToCartSteps - Switched to new window: 126823C1C7D84DE6848C90336BD112F8
+2024-06-20 21:12:32 INFO  steps.AddItemToCartSteps - Product price: 23,499.00
+2024-06-20 21:12:34 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 21:12:34 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:12:34 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:13:35 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:13:38 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:13:38 INFO  steps.AddItemToCartSteps - Switched to new window: 9AEFF3AD4C6163B3259A32074FED30E5
+2024-06-20 21:13:42 INFO  steps.AddItemToCartSteps - Product price: 14,299.00
+2024-06-20 21:13:46 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 21:13:46 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:13:47 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:18:19 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:18:24 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:18:24 INFO  steps.AddItemToCartSteps - Switched to new window: 4D2C83FEEC68755590FC6F2C4A0F625E
+2024-06-20 21:18:27 INFO  steps.AddItemToCartSteps - Product price: 14,299.00
+2024-06-20 21:18:33 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 21:18:33 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:18:33 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:19:41 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:19:45 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:19:45 INFO  steps.AddItemToCartSteps - Switched to new window: D869CB18300A7B31DCDD8FB55BE9B496
+2024-06-20 21:19:49 INFO  steps.AddItemToCartSteps - Product price: 23,499.00
+2024-06-20 21:19:50 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:19:51 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:20:52 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:20:55 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:20:55 INFO  steps.AddItemToCartSteps - Switched to new window: 116B4304434EE56CCF3E575DD4E75256
+2024-06-20 21:20:59 INFO  steps.AddItemToCartSteps - Product price: 14,299.00
+2024-06-20 21:21:31 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:21:31 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:22:45 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:22:49 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:22:49 INFO  steps.AddItemToCartSteps - Switched to new window: D2983401A4ED8BCA7A05236BF1139683
+2024-06-20 21:22:53 INFO  steps.AddItemToCartSteps - Product price: 14,299.00
+2024-06-20 21:22:57 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 21:22:57 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:22:57 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:24:04 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:24:07 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:24:07 INFO  steps.AddItemToCartSteps - Switched to new window: 42E0C53AE60B4D5B404B30B85008C6EE
+2024-06-20 21:24:11 INFO  steps.AddItemToCartSteps - Product price: 14,299.00
+2024-06-20 21:24:15 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 21:24:15 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:24:15 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:25:00 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:25:04 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:25:04 INFO  steps.AddItemToCartSteps - Switched to new window: 2472971CB46F3E3893A6AA700B731206
+2024-06-20 21:25:07 INFO  steps.AddItemToCartSteps - Product price: 14,299.00
+2024-06-20 21:30:53 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:30:57 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:30:57 INFO  steps.AddItemToCartSteps - Switched to new window: 511A4986CEFB413A4BFD601295DDBCF0
+2024-06-20 21:31:01 INFO  steps.AddItemToCartSteps - Product price: 24,499.00
+2024-06-20 21:32:29 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 21:32:29 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:32:29 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:34:51 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:34:54 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:34:54 INFO  steps.AddItemToCartSteps - Switched to new window: 2A514083CDF81D0C47862EF5BAFABBA6
+2024-06-20 21:34:58 INFO  steps.AddItemToCartSteps - Product price: 14,299.00
+2024-06-20 21:35:04 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 21:35:04 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:35:05 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:35:20 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:35:24 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:35:24 INFO  steps.AddItemToCartSteps - Switched to new window: 3F6D94034DE91D7FA5E8FA36896D0B5B
+2024-06-20 21:35:28 INFO  steps.AddItemToCartSteps - Product price: 14,299.00
+2024-06-20 21:38:00 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:38:04 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:38:04 INFO  steps.AddItemToCartSteps - Switched to new window: 59371FF739C54D884FB10E4914FA6AE8
+2024-06-20 21:38:07 INFO  steps.AddItemToCartSteps - Product price: 24,499.00
+2024-06-20 21:38:15 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:38:16 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:38:32 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:38:36 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:38:36 INFO  steps.AddItemToCartSteps - Switched to new window: D5A3C2E64BC6BB157AF0808B63A91B6F
+2024-06-20 21:38:39 INFO  steps.AddItemToCartSteps - Product price: 14,299.00
+2024-06-20 21:38:49 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:38:49 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:39:40 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:39:44 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:39:44 INFO  steps.AddItemToCartSteps - Switched to new window: E1C510C6CE3FFF93DB04BA0FEDC85254
+2024-06-20 21:39:48 INFO  steps.AddItemToCartSteps - Product price: 14,299.00
+2024-06-20 21:42:45 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:43:08 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:43:12 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:43:12 INFO  steps.AddItemToCartSteps - Switched to new window: 7009C1DE89C1735B87D0675F3D23AB0C
+2024-06-20 21:43:16 INFO  steps.AddItemToCartSteps - Product price: 23,499.00
+2024-06-20 21:43:33 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:43:33 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:43:49 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:43:53 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:43:53 INFO  steps.AddItemToCartSteps - Switched to new window: 50CA0778A736A450FACA779A6C3B2B1F
+2024-06-20 21:43:57 INFO  steps.AddItemToCartSteps - Product price: 14,299.00
+2024-06-20 21:45:32 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:45:42 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:45:45 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:45:45 INFO  steps.AddItemToCartSteps - Switched to new window: 47C2FCEE2310678E7CB6157A69F8C2DA
+2024-06-20 21:45:49 INFO  steps.AddItemToCartSteps - Product price: 23,499.00
+2024-06-20 21:46:42 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:46:45 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:46:45 INFO  steps.AddItemToCartSteps - Switched to new window: 7095B59C37CDE2C1EFAB8EA149C5B8A8
+2024-06-20 21:46:49 INFO  steps.AddItemToCartSteps - Product price: 23,499.00
+2024-06-20 21:47:12 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 21:47:12 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:47:13 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:48:52 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:48:55 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:48:55 INFO  steps.AddItemToCartSteps - Switched to new window: 1DF28C1E84D0276F937987BD21FB2F88
+2024-06-20 21:48:58 INFO  steps.AddItemToCartSteps - Product price: 23,499.00
+2024-06-20 21:49:01 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:49:01 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:49:23 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:49:27 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:49:27 INFO  steps.AddItemToCartSteps - Switched to new window: 1372B2BC836D60F068293DE4714B71A7
+2024-06-20 21:49:31 INFO  steps.AddItemToCartSteps - Product price: 23,499.00
+2024-06-20 21:49:36 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:49:37 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:51:46 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:51:50 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:51:50 INFO  steps.AddItemToCartSteps - Switched to new window: F3739C5CC2B7A1E63A7C0FE17B1F7CAA
+2024-06-20 21:51:54 INFO  steps.AddItemToCartSteps - Product price: 14,299.00
+2024-06-20 21:52:01 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:52:01 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:52:26 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:52:31 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:52:31 INFO  steps.AddItemToCartSteps - Switched to new window: D157E93EA04156AB3A8CA06F05FFF842
+2024-06-20 21:52:35 INFO  steps.AddItemToCartSteps - Product price: 23,499.00
+2024-06-20 21:52:44 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 21:52:44 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 21:52:44 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:52:44 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:52:44 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:52:44 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:52:57 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:53:00 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:53:00 INFO  steps.AddItemToCartSteps - Switched to new window: 14310DDA646E8D3F40F4D9541B7FC167
+2024-06-20 21:53:05 INFO  steps.AddItemToCartSteps - Product price: 14,299.00
+2024-06-20 21:53:38 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 21:53:38 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 21:53:38 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:53:39 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:53:39 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:53:39 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:54:31 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:54:35 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:54:35 INFO  steps.AddItemToCartSteps - Switched to new window: 81D9A1B6A36007DFE566C29624602E96
+2024-06-20 21:54:40 INFO  steps.AddItemToCartSteps - Product price: 23,499.00
+2024-06-20 21:54:47 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 21:54:47 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 21:54:47 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:54:47 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:54:47 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:54:47 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:54:53 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:54:57 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:54:57 INFO  steps.AddItemToCartSteps - Switched to new window: A9904F8EDCF6E9EF3A2A223FB0B3905A
+2024-06-20 21:55:01 INFO  steps.AddItemToCartSteps - Product price: 23,499.00
+2024-06-20 21:55:08 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 21:55:08 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 21:55:08 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:55:09 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:55:09 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:55:09 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:55:43 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 21:55:48 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 21:55:48 INFO  steps.AddItemToCartSteps - Switched to new window: 995CCCCFD94FFA966A8F8E5B7BF8B76B
+2024-06-20 21:55:53 INFO  steps.AddItemToCartSteps - Product price: 23,499.00
+2024-06-20 21:56:00 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 21:56:00 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 21:56:00 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:56:00 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 21:56:00 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 21:56:00 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:00:31 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:00:36 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:00:36 INFO  steps.AddItemToCartSteps - Switched to new window: D280D7C5098F40EAC4EAD7F47F755C07
+2024-06-20 22:00:40 INFO  steps.AddItemToCartSteps - Product price: 34,990.00
+2024-06-20 22:00:47 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 22:00:47 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 22:00:47 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:00:47 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:00:47 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:00:47 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:00:58 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:01:02 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:01:02 INFO  steps.AddItemToCartSteps - Switched to new window: CEFF44FBABF2CE72B149F3DE20344BD3
+2024-06-20 22:01:06 INFO  steps.AddItemToCartSteps - Product price: 34,990.00
+2024-06-20 22:01:13 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 22:01:13 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 22:01:13 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:01:13 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:01:13 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:01:13 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:01:49 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:01:53 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:01:53 INFO  steps.AddItemToCartSteps - Switched to new window: 1F59E5AECF859C9F25A4CF9FAC803FAF
+2024-06-20 22:01:57 INFO  steps.AddItemToCartSteps - Product price: 2,990.00
+2024-06-20 22:02:02 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:02:03 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:03:20 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:03:24 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:03:24 INFO  steps.AddItemToCartSteps - Switched to new window: 43C8AE05F161EF7C98B22882A6C39157
+2024-06-20 22:03:28 INFO  steps.AddItemToCartSteps - Product price: 2,990.00
+2024-06-20 22:03:46 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:03:46 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:04:14 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:04:18 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:04:18 INFO  steps.AddItemToCartSteps - Switched to new window: 4A16BEAA5730FB2E9852BAA7536F690E
+2024-06-20 22:04:23 INFO  steps.AddItemToCartSteps - Product price: 2,990.00
+2024-06-20 22:04:33 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:04:33 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:07:34 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:07:38 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:07:38 INFO  steps.AddItemToCartSteps - Switched to new window: 4F698EC2D0E40AED22DB324A0BD73A59
+2024-06-20 22:07:38 INFO  steps.AddItemToCartSteps - Product price: 599.00
+2024-06-20 22:07:49 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:07:49 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:09:14 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:09:20 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:09:20 INFO  steps.AddItemToCartSteps - Switched to new window: B77E0DF8D57E292E79DA3AE69E49275C
+2024-06-20 22:09:23 INFO  steps.AddItemToCartSteps - Product price: 599.00
+2024-06-20 22:09:31 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:09:32 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:37:59 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:38:04 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:38:04 INFO  steps.AddItemToCartSteps - Switched to new window: 855C5CBC0290FD61E09B7291E5541959
+2024-06-20 22:38:08 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:38:08 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:38:08 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:39:48 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:39:51 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:39:51 INFO  steps.AddItemToCartSteps - Switched to new window: 90394B9132C381780E7BF716F2CCF98D
+2024-06-20 22:39:55 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:39:55 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:39:55 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:40:17 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:40:21 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:40:21 INFO  steps.AddItemToCartSteps - Switched to new window: 4C61F8698400C36DF6E81ABF2AA8B4CC
+2024-06-20 22:40:25 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:40:38 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:41:21 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:41:25 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:41:25 INFO  steps.AddItemToCartSteps - Switched to new window: 9BFE50D286D3B625AEAB79BC6DE26A15
+2024-06-20 22:41:29 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:41:29 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:41:29 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:41:52 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:41:56 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:41:56 INFO  steps.AddItemToCartSteps - Switched to new window: 653FCC75640298501DA8ADF422B7385F
+2024-06-20 22:41:59 INFO  steps.AddItemToCartSteps - Product price: 2,990
+2024-06-20 22:42:14 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:42:56 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:43:00 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:43:00 INFO  steps.AddItemToCartSteps - Switched to new window: 3053514A38D204CDFB21B517FEE91AEC
+2024-06-20 22:43:04 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:43:14 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:43:15 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:43:58 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:44:02 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:44:02 INFO  steps.AddItemToCartSteps - Switched to new window: 482E76E8E7DD9A9F53FBD8F15405092B
+2024-06-20 22:44:06 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:44:24 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:44:24 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:45:12 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:45:17 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:45:17 INFO  steps.AddItemToCartSteps - Switched to new window: CB5825D1851BABE36E5ACF79F9BDBFDC
+2024-06-20 22:45:21 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:45:28 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:45:28 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:45:43 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:45:49 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:45:50 INFO  steps.AddItemToCartSteps - Switched to new window: 451EFF0B6C96B780CCECA0C9E57E0142
+2024-06-20 22:45:53 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:46:00 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:46:00 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:46:09 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:46:13 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:46:13 INFO  steps.AddItemToCartSteps - Switched to new window: 33B41FDD074FDBAF3A3309E7252C0EA1
+2024-06-20 22:46:16 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:46:22 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:46:23 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:46:57 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:47:01 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:47:01 INFO  steps.AddItemToCartSteps - Switched to new window: E5C398528FBD04B24B5BF4DD5FA2ECE1
+2024-06-20 22:47:05 INFO  steps.AddItemToCartSteps - Product price: 2,990
+2024-06-20 22:47:10 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:47:11 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:48:22 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:48:26 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:48:26 INFO  steps.AddItemToCartSteps - Switched to new window: C231906AD6991FEAD538F3C7381208E8
+2024-06-20 22:48:30 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:48:36 INFO  steps.AddItemToCartSteps - Switched back to the original window: EA8D7C903F636AAF216C247B33CCEA86
+2024-06-20 22:48:37 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:48:38 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:49:37 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:49:46 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:49:46 INFO  steps.AddItemToCartSteps - Switched to new window: 71ED5040E1BCB0EB5B7A5CEE4F203F0A
+2024-06-20 22:49:50 INFO  steps.AddItemToCartSteps - Product price: 2,990
+2024-06-20 22:49:55 INFO  steps.AddItemToCartSteps - Switched back to the original window: EFEF2BE9B5BD674BF2CCA04CFD94E5FE
+2024-06-20 22:51:06 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:51:10 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:51:10 INFO  steps.AddItemToCartSteps - Switched to new window: 6528FE3B97DE322A41EDFBEC06EA2276
+2024-06-20 22:51:14 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:51:20 INFO  steps.AddItemToCartSteps - Switched back to the original window: 7D3187426C464CEEF910B0FD44C569E8
+2024-06-20 22:51:22 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:51:22 INFO  steps.AddItemToCartSteps - Switched to new window: 6528FE3B97DE322A41EDFBEC06EA2276
+2024-06-20 22:51:22 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:51:33 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:51:33 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:52:48 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:52:53 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:52:53 INFO  steps.AddItemToCartSteps - Switched to new window: 7FA37412F0073DE916C847499F9B1759
+2024-06-20 22:52:57 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:53:03 INFO  steps.AddItemToCartSteps - Switched back to the original window: 9E1807763D3B3BD508ABFC7C319FCF58
+2024-06-20 22:53:05 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:53:05 INFO  steps.AddItemToCartSteps - Switched to new window: 5D4CC7099DD6B5599B329BAABBCACAF3
+2024-06-20 22:53:09 INFO  steps.AddItemToCartSteps - Product price: 339
+2024-06-20 22:53:16 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 22:53:17 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:53:17 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:54:17 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:54:25 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:54:25 INFO  steps.AddItemToCartSteps - Switched to new window: B3E0040D0FA452F7F1B5493F21B82FEB
+2024-06-20 22:54:29 INFO  steps.AddItemToCartSteps - Product price: 2,990
+2024-06-20 22:54:34 INFO  steps.AddItemToCartSteps - Switched back to the original window: 0E37EFCC34F11C1AFB7308F3C1203024
+2024-06-20 22:54:36 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:54:36 INFO  steps.AddItemToCartSteps - Switched to new window: 06174D66045733ECCFA651EB9052A5DE
+2024-06-20 22:54:40 INFO  steps.AddItemToCartSteps - Product price: 13,400
+2024-06-20 22:54:47 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 22:55:21 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:55:53 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:55:57 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:55:57 INFO  steps.AddItemToCartSteps - Switched to new window: F3B8BA1203F1A7666B3B6D1046B803E3
+2024-06-20 22:56:01 INFO  steps.AddItemToCartSteps - Product price: 2,990
+2024-06-20 22:56:06 INFO  steps.AddItemToCartSteps - Switched back to the original window: E2A34CCE06660F17CBE6706DE4E0CBA0
+2024-06-20 22:56:09 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:56:09 INFO  steps.AddItemToCartSteps - Switched to new window: A4F60800021AF2551E39DA2054AB60FB
+2024-06-20 22:56:13 INFO  steps.AddItemToCartSteps - Product price: 13,400
+2024-06-20 22:56:20 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 22:56:38 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:56:38 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:57:02 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:57:06 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:57:06 INFO  steps.AddItemToCartSteps - Switched to new window: 60F470336AA433998B59F0F1AF40E81B
+2024-06-20 22:57:10 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:57:16 INFO  steps.AddItemToCartSteps - Switched back to the original window: A5D26452F6B93614BD6CC9228EB23ACB
+2024-06-20 22:57:18 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:57:18 INFO  steps.AddItemToCartSteps - Switched to new window: 67680F2E4C464B6D750DE69C101C3F1C
+2024-06-20 22:57:22 INFO  steps.AddItemToCartSteps - Product price: 339
+2024-06-20 22:57:29 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 22:57:29 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:57:30 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:57:49 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:57:52 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:57:52 INFO  steps.AddItemToCartSteps - Switched to new window: 6A833A013AAA28E149D70AF0B13FA182
+2024-06-20 22:57:56 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:58:03 INFO  steps.AddItemToCartSteps - Switched back to the original window: FEBEBA111A3F621C3FF0D83E5626298E
+2024-06-20 22:58:05 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:58:05 INFO  steps.AddItemToCartSteps - Switched to new window: 94FC63ADA940249AD8513DA3B8D6101F
+2024-06-20 22:58:09 INFO  steps.AddItemToCartSteps - Product price: 944
+2024-06-20 22:58:16 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 22:58:38 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 22:58:38 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 22:59:26 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 22:59:30 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:59:30 INFO  steps.AddItemToCartSteps - Switched to new window: 0B2651EC79DDC8F9061BA9AE3C86C15D
+2024-06-20 22:59:34 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 22:59:40 INFO  steps.AddItemToCartSteps - Switched back to the original window: B399CE0D0FB52D67AAA65173E52D3FD2
+2024-06-20 22:59:42 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 22:59:42 INFO  steps.AddItemToCartSteps - Switched to new window: 54D19D1D28AE4F54BD956E9117E40B31
+2024-06-20 22:59:46 INFO  steps.AddItemToCartSteps - Product price: 944
+2024-06-20 22:59:53 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:00:17 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:00:17 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:02:58 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:03:02 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:03:02 INFO  steps.AddItemToCartSteps - Switched to new window: 4DF5BAC5A638D353D43B6768D5443E2E
+2024-06-20 23:03:05 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 23:03:12 INFO  steps.AddItemToCartSteps - Switched back to the original window: 76E9D3C042313C1C1F24E36AF9B49BB5
+2024-06-20 23:03:14 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:03:14 INFO  steps.AddItemToCartSteps - Switched to new window: 0482C03D360791145B7A26EF4A552CCA
+2024-06-20 23:03:18 INFO  steps.AddItemToCartSteps - Product price: 944
+2024-06-20 23:03:25 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:03:25 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:03:25 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:03:37 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:03:41 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:03:41 INFO  steps.AddItemToCartSteps - Switched to new window: E980C9B92B8F31FCFDA387ED80A76F08
+2024-06-20 23:03:44 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 23:03:50 INFO  steps.AddItemToCartSteps - Switched back to the original window: ABD8BC2A36D9363EDA65890C915F931C
+2024-06-20 23:03:53 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:03:53 INFO  steps.AddItemToCartSteps - Switched to new window: 93542B87AD17C7EB191EDEBDF6261009
+2024-06-20 23:03:56 INFO  steps.AddItemToCartSteps - Product price: 13,400
+2024-06-20 23:04:03 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:05:43 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:05:49 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:05:53 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:05:53 INFO  steps.AddItemToCartSteps - Switched to new window: 01D8BE6D3296A5D860EFAC4D8995D5F9
+2024-06-20 23:05:57 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 23:06:03 INFO  steps.AddItemToCartSteps - Switched back to the original window: 3E57659FCF22FD3A8EF5A417A142D0C9
+2024-06-20 23:06:05 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:06:05 INFO  steps.AddItemToCartSteps - Switched to new window: BF5FE0C7FBBDBF120E809EE30C7D486A
+2024-06-20 23:06:09 INFO  steps.AddItemToCartSteps - Product price: 13,400
+2024-06-20 23:06:16 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:06:16 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:06:16 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:06:16 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:06:16 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:06:34 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:06:38 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:06:38 INFO  steps.AddItemToCartSteps - Switched to new window: 2FA4A75A11B58A61411125E9D4F3FC12
+2024-06-20 23:06:42 INFO  steps.AddItemToCartSteps - Product price: 14,299
+2024-06-20 23:06:50 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:06:50 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:06:50 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:06:50 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:06:50 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:06:50 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:06:50 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:06:50 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:06:50 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:08:50 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:08:54 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:08:54 INFO  steps.AddItemToCartSteps - Switched to new window: EFF7872F2735DAA7AF39397515C32B88
+2024-06-20 23:08:57 INFO  steps.AddItemToCartSteps - Product price: 10,498
+2024-06-20 23:09:05 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:09:05 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 23:09:05 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:09:06 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:09:06 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:09:06 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:09:06 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:09:06 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:09:06 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:09:06 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:09:06 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:09:06 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:09:22 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:09:25 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:09:25 INFO  steps.AddItemToCartSteps - Switched to new window: E472562F58F3BF08ED56A8072EB06754
+2024-06-20 23:09:28 INFO  steps.AddItemToCartSteps - Product price: 10,498
+2024-06-20 23:09:36 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:09:36 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 23:09:36 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:09:37 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:09:37 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:09:37 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:09:37 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:09:37 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:09:37 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:09:37 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:09:37 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:09:37 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:10:14 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:10:18 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:10:18 INFO  steps.AddItemToCartSteps - Switched to new window: A224380E5EEA41CBF7DF2CD5C5A69255
+2024-06-20 23:10:22 INFO  steps.AddItemToCartSteps - Product price: 36,990
+2024-06-20 23:10:30 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:10:30 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 23:10:30 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:10:31 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:10:31 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:10:31 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:10:31 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:10:31 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:10:31 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:11:02 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:11:06 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:11:06 INFO  steps.AddItemToCartSteps - Switched to new window: 9D2AF87E85D3B53FA494A4BBA1FCE513
+2024-06-20 23:11:10 INFO  steps.AddItemToCartSteps - Product price: 14,299
+2024-06-20 23:11:18 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:11:18 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 23:11:18 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:11:18 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:11:18 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:11:18 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:11:18 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:11:18 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:11:18 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:11:18 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:11:18 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:11:18 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:12:01 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:12:05 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:12:05 INFO  steps.AddItemToCartSteps - Switched to new window: 68AA5E3D2E195EBB0A75EB4C2E8F0D75
+2024-06-20 23:12:08 INFO  steps.AddItemToCartSteps - Product price: 14,299
+2024-06-20 23:12:17 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:12:17 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 23:12:17 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:12:17 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:12:17 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:12:17 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:12:17 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:12:17 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:12:17 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:13:26 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:13:26 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:13:26 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:13:58 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:14:02 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:14:02 INFO  steps.AddItemToCartSteps - Switched to new window: A57F5FA9479CB3A1E5FDAB332FAAB5F3
+2024-06-20 23:14:05 INFO  steps.AddItemToCartSteps - Product price: 10,498
+2024-06-20 23:14:14 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:14:14 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 23:14:14 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:14:14 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:14:14 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:14:14 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:14:22 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:14:24 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:14:24 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:14:24 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:14:24 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:14:24 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:14:24 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:14:24 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:14:24 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:14:24 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:14:24 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:14:46 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:14:50 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:14:50 INFO  steps.AddItemToCartSteps - Switched to new window: 59684B739C2F240B3953088B48A27A61
+2024-06-20 23:14:53 INFO  steps.AddItemToCartSteps - Product price: 19,499
+2024-06-20 23:15:02 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:15:02 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 23:15:02 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:15:02 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:15:02 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:15:02 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:15:02 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:15:02 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:15:02 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:15:02 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:15:02 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:15:02 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:15:22 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:15:24 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:15:24 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:15:24 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:15:24 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:15:24 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:15:24 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:15:24 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:15:24 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:16:01 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:16:03 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:16:03 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:16:03 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:16:03 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:16:03 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:16:03 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:16:03 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:16:03 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:16:29 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:16:34 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:16:34 INFO  steps.AddItemToCartSteps - Switched to new window: 27795C43D7457993A2FD58981ED0C0C6
+2024-06-20 23:16:37 INFO  steps.AddItemToCartSteps - Product price: 19,499
+2024-06-20 23:16:46 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:16:46 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 23:16:46 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:16:46 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:16:46 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:16:46 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:16:46 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:16:46 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:16:46 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:16:46 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:16:46 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:16:46 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:17:11 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:17:15 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:17:15 INFO  steps.AddItemToCartSteps - Switched to new window: 490EA409075A25A98406BAA0E72F3F3C
+2024-06-20 23:17:19 INFO  steps.AddItemToCartSteps - Product price: 14,299
+2024-06-20 23:17:27 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:17:27 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 23:17:27 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:17:28 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:17:28 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:17:28 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:17:28 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:17:28 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:17:28 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:17:28 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:17:28 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:17:28 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:18:52 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:18:56 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:18:56 INFO  steps.AddItemToCartSteps - Switched to new window: 101168F8E314A039B992199AC42C9459
+2024-06-20 23:18:59 INFO  steps.AddItemToCartSteps - Product price: 10,498
+2024-06-20 23:19:08 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:19:08 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 23:19:08 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:19:08 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:19:08 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:19:08 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:19:08 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:19:08 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:19:08 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:19:08 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:20:41 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:20:45 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:20:45 INFO  steps.AddItemToCartSteps - Switched to new window: 7DC51F87663D3FD0E10CFD9E65F7E972
+2024-06-20 23:20:48 INFO  steps.AddItemToCartSteps - Product price: 14,299
+2024-06-20 23:20:57 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:20:57 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 23:20:57 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:20:57 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:20:57 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:20:57 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:20:57 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:20:57 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:20:57 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:20:57 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:20:57 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:20:57 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:22:33 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:22:33 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:22:33 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-20 23:22:45 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:22:45 INFO  steps.AddItemToCartSteps - Switched to new window: FCA4F7A6DE2C4A06F792D285A338FB25
+2024-06-20 23:22:46 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:22:46 INFO  steps.AddItemToCartSteps - Switched to new window: B1DCB9C950FCE16DB42FCA0E60C341D4
+2024-06-20 23:22:46 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:22:46 INFO  steps.AddItemToCartSteps - Switched to new window: E4C86B00328874708F7D9BF9DD848F3E
+2024-06-20 23:22:51 INFO  steps.AddItemToCartSteps - Product price: 19,499
+2024-06-20 23:22:53 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 23:22:53 INFO  steps.AddItemToCartSteps - Product price: 59,990
+2024-06-20 23:22:59 INFO  steps.AddItemToCartSteps - Switched back to the original window: 8C129634544EB1B4BDFC5EF2AC200D2C
+2024-06-20 23:23:00 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:23:00 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 23:23:00 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:23:00 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:23:00 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-20 23:23:00 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:23:01 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:23:01 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:23:01 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:23:02 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:23:02 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:23:02 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:23:02 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-20 23:23:02 INFO  steps.AddItemToCartSteps - Switched to new window: CB5AD14424B9E771540A294735184D7B
+2024-06-20 23:23:06 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-20 23:23:13 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-20 23:23:13 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:23:13 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-20 23:23:13 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-20 23:23:13 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 13:11:34 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 13:11:34 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 13:11:34 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 13:11:34 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 13:11:34 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 13:11:34 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:41:46 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:41:46 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:41:46 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:41:46 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:41:46 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:41:46 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:42:17 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:42:17 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:42:17 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:42:17 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:42:17 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:42:17 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:43:14 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 21:43:14 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 21:43:14 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 21:43:21 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 21:43:21 INFO  steps.AddItemToCartSteps - Switched to new window: D3E67B1A9D0F304F9CE8FBD3DB014B94
+2024-06-21 21:43:22 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 21:43:22 INFO  steps.AddItemToCartSteps - Switched to new window: A5AE38C572E38C7917B196A140551B1B
+2024-06-21 21:43:22 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 21:43:22 INFO  steps.AddItemToCartSteps - Switched to new window: 981F95922D9B19779D47CC9D733E6C0C
+2024-06-21 21:43:27 INFO  steps.AddItemToCartSteps - Product price: 14,999
+2024-06-21 21:43:28 INFO  steps.AddItemToCartSteps - Product price: 1,399
+2024-06-21 21:43:32 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:43:33 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:43:33 INFO  steps.AddItemToCartSteps - Switched back to the original window: A98CC072148D6543D7CF4F4F96EFD7AB
+2024-06-21 21:43:36 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 21:43:36 INFO  steps.AddItemToCartSteps - Switched to new window: 716D4016B58BF9065A6800898BD5284C
+2024-06-21 21:43:37 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 21:43:37 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 21:43:37 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:43:38 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:43:38 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:43:38 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:43:40 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-21 21:43:47 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 21:43:47 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:43:48 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:43:48 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:43:48 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:44:17 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 21:44:17 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 21:44:22 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 21:44:22 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 21:44:22 INFO  steps.AddItemToCartSteps - Switched to new window: 79D6606F284500408921091CB7C07CDA
+2024-06-21 21:44:22 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 21:44:22 INFO  steps.AddItemToCartSteps - Switched to new window: 1715E2830491BFF4F2ACEC44942D8781
+2024-06-21 21:44:28 INFO  steps.AddItemToCartSteps - Product price: 1,399
+2024-06-21 21:44:28 INFO  steps.AddItemToCartSteps - Product price: 14,999
+2024-06-21 21:44:29 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 21:44:29 INFO  steps.AddItemToCartSteps - Switched to new window: DD90FACC629D10699DAAC8FF623B6750
+2024-06-21 21:44:33 INFO  steps.AddItemToCartSteps - Switched back to the original window: D037CFF02651575A2DF5EB85DEF34604
+2024-06-21 21:44:36 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 21:44:36 INFO  steps.AddItemToCartSteps - Switched to new window: BF38FD391D3571BA052A04E1A61747AA
+2024-06-21 21:44:37 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 21:44:37 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 21:44:37 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:44:38 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:44:38 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:44:38 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:44:40 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:44:41 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:44:41 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-21 21:44:48 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 21:44:48 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:44:48 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:44:48 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:44:48 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:45:32 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 21:45:37 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 21:45:37 INFO  steps.AddItemToCartSteps - Switched to new window: 8E77F85BA68D001996D6803D2F374347
+2024-06-21 21:45:40 INFO  steps.AddItemToCartSteps - Product price: 14,999
+2024-06-21 21:45:49 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 21:45:49 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 21:45:49 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:45:49 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:45:49 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:45:49 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:46:15 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 21:46:20 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 21:46:20 INFO  steps.AddItemToCartSteps - Switched to new window: 76C44543F17544B30B3B0E9EB68C81A4
+2024-06-21 21:46:30 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:46:31 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:46:57 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 21:47:02 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 21:47:02 INFO  steps.AddItemToCartSteps - Switched to new window: C18B3067993CA2591645925F20B47BAF
+2024-06-21 21:47:12 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:47:13 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 21:47:38 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 21:47:43 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 21:47:43 INFO  steps.AddItemToCartSteps - Switched to new window: 39D68566AA1EBF9360A704811EA316BE
+2024-06-21 21:50:34 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 21:50:38 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 21:50:38 INFO  steps.AddItemToCartSteps - Switched to new window: 65EAFD6AA5174E6B9B23FF7D1937A8C0
+2024-06-21 21:50:48 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 21:50:49 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:12:13 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 22:12:13 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 22:12:13 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 22:12:20 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 22:12:20 INFO  steps.AddItemToCartSteps - Switched to new window: 9B6CF6F0DF1D3E887EC9C582F81FF876
+2024-06-21 22:12:20 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 22:12:21 INFO  steps.AddItemToCartSteps - Switched to new window: 8C8BF9CA76ADF55F1C79F21E6F71C28B
+2024-06-21 22:12:21 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 22:12:21 INFO  steps.AddItemToCartSteps - Switched to new window: 05538C7D49F200CA718B579AA6CEED88
+2024-06-21 22:12:25 INFO  steps.AddItemToCartSteps - Product price: 14,999
+2024-06-21 22:12:26 INFO  steps.AddItemToCartSteps - Product price: 1,399
+2024-06-21 22:12:26 INFO  steps.AddItemToCartSteps - Product price: 46,990
+2024-06-21 22:12:31 INFO  steps.AddItemToCartSteps - Switched back to the original window: 224924E27C4F12766D6C68EE80785EAB
+2024-06-21 22:12:34 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 22:12:34 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 22:12:34 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:12:35 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 22:12:35 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 22:12:35 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:12:35 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 22:12:35 INFO  steps.AddItemToCartSteps - Switched to new window: 8E1385540F0377915B6D48B6A2B80F24
+2024-06-21 22:12:35 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:12:35 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:12:35 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:12:35 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:12:35 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:12:35 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:12:40 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-21 22:12:46 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 22:12:47 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:12:47 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:12:47 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:12:47 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:53:19 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 22:53:19 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 22:53:19 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 22:53:27 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 22:53:27 INFO  steps.AddItemToCartSteps - Switched to new window: 46CF8BBE27762D0086AE5601D0577AB1
+2024-06-21 22:53:28 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 22:53:28 INFO  steps.AddItemToCartSteps - Switched to new window: EA14A3446F0A9EEDC37055EE624E00A8
+2024-06-21 22:53:28 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 22:53:28 INFO  steps.AddItemToCartSteps - Switched to new window: 191F451BE77010ABF6286179F256C75A
+2024-06-21 22:53:36 INFO  steps.AddItemToCartSteps - Product price: 1,399
+2024-06-21 22:53:36 INFO  steps.AddItemToCartSteps - Product price: 11,499
+2024-06-21 22:53:36 INFO  steps.AddItemToCartSteps - Product price: 46,990
+2024-06-21 22:53:41 INFO  steps.AddItemToCartSteps - Switched back to the original window: 59A7611221D2241A146A739EB308AFA2
+2024-06-21 22:53:43 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:53:43 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 22:53:43 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 22:53:43 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:53:44 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:53:44 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:53:44 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:53:44 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:53:44 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 22:53:44 INFO  steps.AddItemToCartSteps - Switched to new window: 78798632FFAB96E52C0CBDE3B5718207
+2024-06-21 22:53:49 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-21 22:53:56 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 22:53:56 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:53:56 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:53:56 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:53:56 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:54:43 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 22:54:43 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 22:54:43 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 22:54:49 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 22:54:49 INFO  steps.AddItemToCartSteps - Switched to new window: 61E2A08DCA20FC0624BA88A534A82A72
+2024-06-21 22:54:49 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 22:54:49 INFO  steps.AddItemToCartSteps - Switched to new window: E443A2854F1BD620ED067EF1E209F0B3
+2024-06-21 22:54:49 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 22:54:49 INFO  steps.AddItemToCartSteps - Switched to new window: 639B65868F5BC760183D667E07EE761F
+2024-06-21 22:54:57 INFO  steps.AddItemToCartSteps - Product price: 11,499
+2024-06-21 22:54:57 INFO  steps.AddItemToCartSteps - Product price: 8,549
+2024-06-21 22:54:57 INFO  steps.AddItemToCartSteps - Product price: 46,990
+2024-06-21 22:55:02 INFO  steps.AddItemToCartSteps - Switched back to the original window: 615F96ED0065F57402D5A4138FE9A215
+2024-06-21 22:55:04 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 22:55:04 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 22:55:04 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:55:04 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:55:05 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:55:05 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:55:05 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:55:05 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 22:55:05 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 22:55:05 INFO  steps.AddItemToCartSteps - Switched to new window: C7024BC4DFFBE1F467988C51DDFD8DD3
+2024-06-21 22:55:10 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-21 22:55:16 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 22:55:17 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:00:25 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:00:25 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:00:25 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:00:33 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:00:33 INFO  steps.AddItemToCartSteps - Switched to new window: C734A1005A91D2A891D31D1E13601991
+2024-06-21 23:00:33 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:00:33 INFO  steps.AddItemToCartSteps - Switched to new window: 07FA847C3E1F47D4143835155C2A3873
+2024-06-21 23:00:35 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:00:35 INFO  steps.AddItemToCartSteps - Switched to new window: 3F98B283CFFB893085470F46BBA2E79B
+2024-06-21 23:00:41 INFO  steps.AddItemToCartSteps - Product price: 11,499
+2024-06-21 23:00:42 INFO  steps.AddItemToCartSteps - Product price: 8,549
+2024-06-21 23:00:43 INFO  steps.AddItemToCartSteps - Product price: 46,990
+2024-06-21 23:00:48 INFO  steps.AddItemToCartSteps - Switched back to the original window: 61387BAC1F2DDF8DE3A54A55D6191899
+2024-06-21 23:00:48 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 23:00:48 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 23:00:48 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:00:49 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:00:49 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:00:49 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:00:49 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:00:50 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:00:50 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:00:50 INFO  steps.AddItemToCartSteps - Switched to new window: 80050D915283E75279040B78846B8759
+2024-06-21 23:00:55 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-21 23:01:02 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 23:01:02 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:01:03 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:01:03 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:01:03 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:02:31 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:02:31 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:02:31 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:02:36 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:02:36 INFO  steps.AddItemToCartSteps - Switched to new window: 8952BC80BC64FE915202BADB217BE9FB
+2024-06-21 23:02:37 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:02:37 INFO  steps.AddItemToCartSteps - Switched to new window: DC1A92B2151613F9779E0B71DFF0A89C
+2024-06-21 23:02:37 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:02:37 INFO  steps.AddItemToCartSteps - Switched to new window: 29DD69F677B7B357A92A019AE1CF6661
+2024-06-21 23:02:43 INFO  steps.AddItemToCartSteps - Product price: 8,549
+2024-06-21 23:02:44 INFO  steps.AddItemToCartSteps - Product price: 11,499
+2024-06-21 23:02:44 INFO  steps.AddItemToCartSteps - Product price: 43,999
+2024-06-21 23:02:49 INFO  steps.AddItemToCartSteps - Switched back to the original window: 1E018BA01A7F9D4E5625C1DBE15DAB9C
+2024-06-21 23:02:51 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:02:51 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 23:02:51 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 23:02:51 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:02:51 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:02:51 INFO  steps.AddItemToCartSteps - Switched to new window: 1CBB4FC8E868BC7DFA9CD84B24B3358E
+2024-06-21 23:02:51 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:02:51 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:02:51 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:02:51 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:02:56 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-21 23:03:03 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 23:03:03 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:03:03 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:03:03 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:03:03 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:04:12 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:04:12 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:04:12 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:04:18 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:04:18 INFO  steps.AddItemToCartSteps - Switched to new window: CBBA6D5F62FC04A3CDC4B603DE5B82FD
+2024-06-21 23:04:18 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:04:18 INFO  steps.AddItemToCartSteps - Switched to new window: 3B4F676C65CBCFD4B0251C124FAF4E00
+2024-06-21 23:04:20 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:04:20 INFO  steps.AddItemToCartSteps - Switched to new window: 7670879657469E4F03A9D8C33F0E5D1E
+2024-06-21 23:04:26 INFO  steps.AddItemToCartSteps - Product price: 8,549
+2024-06-21 23:04:26 INFO  steps.AddItemToCartSteps - Product price: 11,499
+2024-06-21 23:04:26 INFO  steps.AddItemToCartSteps - Product price: 43,999
+2024-06-21 23:04:31 INFO  steps.AddItemToCartSteps - Switched back to the original window: E5C4612E8EE657F55122BB91E64DD512
+2024-06-21 23:04:33 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 23:04:33 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 23:04:33 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:04:34 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 23:04:34 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 23:04:34 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:04:34 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:04:34 INFO  steps.AddItemToCartSteps - Switched to new window: D90242A39BB7ADD1D58A14EE2DCAE8E6
+2024-06-21 23:04:34 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:04:34 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:04:34 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:04:35 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:04:35 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:04:35 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:04:39 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-21 23:04:46 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 23:04:46 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:04:47 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:04:47 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:04:47 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:07:41 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:07:41 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:07:41 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:07:47 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:07:47 INFO  steps.AddItemToCartSteps - Switched to new window: 11D844E7FCB4D9CB40996C89026B8336
+2024-06-21 23:07:49 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:07:49 INFO  steps.AddItemToCartSteps - Switched to new window: 33E9A9E7841C7D83020DD6F369F9FD59
+2024-06-21 23:07:49 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:07:49 INFO  steps.AddItemToCartSteps - Switched to new window: E24DB9CDE1F2E345CC19389524C34FCA
+2024-06-21 23:07:54 INFO  steps.AddItemToCartSteps - Product price: 8,549
+2024-06-21 23:07:56 INFO  steps.AddItemToCartSteps - Product price: 14,999
+2024-06-21 23:07:56 INFO  steps.AddItemToCartSteps - Product price: 43,999
+2024-06-21 23:08:00 INFO  steps.AddItemToCartSteps - Switched back to the original window: 63CD15A9905B42EB3E359CE603E5897B
+2024-06-21 23:08:03 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:08:03 INFO  steps.AddItemToCartSteps - Switched to new window: 3E1024EB86314AE7CC6893756FD8CDEA
+2024-06-21 23:08:04 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 23:08:04 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 23:08:04 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:08:05 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:08:05 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:08:05 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:08:06 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 23:08:06 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 23:08:06 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:08:06 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:08:06 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:08:06 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:08:07 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-21 23:08:14 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 23:08:15 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:08:15 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:08:15 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:08:15 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:31:42 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:31:42 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:31:42 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-21 23:31:49 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:31:49 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:31:49 INFO  steps.AddItemToCartSteps - Switched to new window: 6CCD103CEBA85B7EACAA11549FACFE65
+2024-06-21 23:31:50 INFO  steps.AddItemToCartSteps - Switched to new window: 4B46F92BFFEDFE6C798A28043865D5B5
+2024-06-21 23:31:52 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:31:52 INFO  steps.AddItemToCartSteps - Switched to new window: A7E4FA74B210C25262C4E108292A5D9C
+2024-06-21 23:31:56 INFO  steps.AddItemToCartSteps - Product price: 14,999
+2024-06-21 23:31:56 INFO  steps.AddItemToCartSteps - Product price: 8,549
+2024-06-21 23:31:59 INFO  steps.AddItemToCartSteps - Product price: 43,999
+2024-06-21 23:32:02 INFO  steps.AddItemToCartSteps - Switched back to the original window: E5A0B3B51FEDF4F8E928B2A8CFD53FF6
+2024-06-21 23:32:05 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-21 23:32:05 INFO  steps.AddItemToCartSteps - Switched to new window: 88990A46294AC7FCA4425333E7E8072B
+2024-06-21 23:32:06 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 23:32:06 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 23:32:06 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:32:06 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 23:32:06 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-21 23:32:06 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:32:07 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:32:07 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:32:07 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:32:07 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:32:07 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:32:07 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:32:10 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-21 23:32:17 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-21 23:32:17 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:32:17 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-21 23:32:17 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-21 23:32:17 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:34:49 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:34:49 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:34:49 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:34:57 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:34:57 INFO  steps.AddItemToCartSteps - Switched to new window: 3E499F234269DF2228F14ACF42DA1162
+2024-06-23 00:34:58 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:34:58 INFO  steps.AddItemToCartSteps - Switched to new window: 3CED54B1FCF83AB3A146C37AE88ADE87
+2024-06-23 00:34:58 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:34:58 INFO  steps.AddItemToCartSteps - Switched to new window: 2B724BA35B42540663DCFB0BA1CB6DEE
+2024-06-23 00:35:11 INFO  steps.AddItemToCartSteps - Product price: 1,699
+2024-06-23 00:35:13 INFO  steps.AddItemToCartSteps - Product price: 59,990
+2024-06-23 00:35:13 INFO  steps.AddItemToCartSteps - Product price: 5,999
+2024-06-23 00:35:19 INFO  steps.AddItemToCartSteps - Switched back to the original window: 8DAD4B03A9696C54ACF2F1AC3302D784
+2024-06-23 00:35:21 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:35:21 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-23 00:35:21 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:35:22 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:35:22 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:35:22 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:35:22 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:35:22 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-23 00:35:22 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:35:22 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:35:22 INFO  steps.AddItemToCartSteps - Switched to new window: 1C266D71BC8F2F2D4E817AD63BF1D7E7
+2024-06-23 00:35:23 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:35:23 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:35:23 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:35:27 INFO  steps.AddItemToCartSteps - Product price: 2,213
+2024-06-23 00:35:37 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:35:37 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:35:38 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:35:38 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:35:38 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:38:25 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:38:25 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:38:25 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:38:27 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:38:27 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:38:31 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:38:31 INFO  steps.AddItemToCartSteps - Switched to new window: D14CC63594C7FF9FF3ACCE988DD00EA7
+2024-06-23 00:38:32 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:38:32 INFO  steps.AddItemToCartSteps - Switched to new window: 77B5A6F9CA89DBCD4CFB19543B5D4C33
+2024-06-23 00:38:39 INFO  steps.AddItemToCartSteps - Product price: 1,699
+2024-06-23 00:38:41 INFO  steps.AddItemToCartSteps - Product price: 5,999
+2024-06-23 00:38:47 INFO  steps.AddItemToCartSteps - Switched back to the original window: 13C637D9950F51DC460BE090724DFAED
+2024-06-23 00:38:49 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:38:49 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-23 00:38:49 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:38:49 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:38:49 INFO  steps.AddItemToCartSteps - Switched to new window: 8DD1B050AB4491EACD6611B9FA6499B7
+2024-06-23 00:38:49 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:38:49 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:38:49 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:38:54 INFO  steps.AddItemToCartSteps - Product price: 2,899
+2024-06-23 00:39:02 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:39:02 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:39:03 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:39:03 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:39:03 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:40:36 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:40:36 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:40:36 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:40:43 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:40:43 INFO  steps.AddItemToCartSteps - Switched to new window: E41684FCEF3F15DDE71D8A141AF18B52
+2024-06-23 00:40:44 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:40:44 INFO  steps.AddItemToCartSteps - Switched to new window: AB35D8BEE9162EE7EA7A2AD513FB5077
+2024-06-23 00:40:45 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:40:45 INFO  steps.AddItemToCartSteps - Switched to new window: E3B990E711AD243213BB42008CB75B50
+2024-06-23 00:40:55 INFO  steps.AddItemToCartSteps - Product price: 629
+2024-06-23 00:40:57 INFO  steps.AddItemToCartSteps - Product price: 11,850
+2024-06-23 00:41:05 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:41:05 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-23 00:41:05 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:41:05 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:41:06 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:41:06 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:41:06 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:41:06 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:41:07 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:41:08 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:41:49 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:41:49 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:41:54 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:41:54 INFO  steps.AddItemToCartSteps - Switched to new window: D809DC9C79A0D420510D6CB1380E5C84
+2024-06-23 00:41:56 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:41:56 INFO  steps.AddItemToCartSteps - Switched to new window: 66EAE7A24DF140E1D72C380CEADE981E
+2024-06-23 00:42:02 INFO  steps.AddItemToCartSteps - Product price: 5,999
+2024-06-23 00:42:03 INFO  steps.AddItemToCartSteps - Product price: 35,990
+2024-06-23 00:42:08 INFO  steps.AddItemToCartSteps - Switched back to the original window: 8515C885F29DAEA98371C900177F3AE4
+2024-06-23 00:42:11 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:42:11 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-23 00:42:11 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:42:11 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:42:11 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:42:11 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:42:12 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:42:12 INFO  steps.AddItemToCartSteps - Switched to new window: 3C03351D2AA866F4AE77919CD820F87A
+2024-06-23 00:42:16 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-23 00:42:23 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:42:23 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:42:24 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:42:24 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:42:24 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:42:42 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:42:42 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:42:42 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:42:49 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:42:49 INFO  steps.AddItemToCartSteps - Switched to new window: 93DB906008AF35411DD32EC716C15C32
+2024-06-23 00:42:50 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:42:50 INFO  steps.AddItemToCartSteps - Switched to new window: 3B2ADDD2B323BEBCE119BDC7F28182E9
+2024-06-23 00:42:51 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:42:51 INFO  steps.AddItemToCartSteps - Switched to new window: 16DDF27550B5990615F17936B9D894CB
+2024-06-23 00:43:03 INFO  steps.AddItemToCartSteps - Product price: 11,850
+2024-06-23 00:43:03 INFO  steps.AddItemToCartSteps - Product price: 59,990
+2024-06-23 00:43:04 INFO  steps.AddItemToCartSteps - Product price: 5,999
+2024-06-23 00:43:10 INFO  steps.AddItemToCartSteps - Switched back to the original window: BD9905F8074A02207BE6AA3494449BB8
+2024-06-23 00:43:10 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:43:10 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-23 00:43:10 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:43:11 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:43:11 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-23 00:43:11 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:43:11 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:43:11 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:43:11 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:43:12 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:43:12 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:43:12 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:43:12 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:43:12 INFO  steps.AddItemToCartSteps - Switched to new window: D8D21C741A1EFDBA960CD9C8EA11B898
+2024-06-23 00:43:17 INFO  steps.AddItemToCartSteps - Product price: 2,899
+2024-06-23 00:43:24 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:43:24 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:43:25 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:43:25 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:43:25 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:43:53 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:43:53 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:43:53 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:43:59 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:43:59 INFO  steps.AddItemToCartSteps - Switched to new window: B296ECDD1FC7A2E081F154B7538B9C4E
+2024-06-23 00:44:00 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:44:00 INFO  steps.AddItemToCartSteps - Switched to new window: 64AF456F962AA047DF321E76A68AF77B
+2024-06-23 00:44:00 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:44:00 INFO  steps.AddItemToCartSteps - Switched to new window: 490C4632CFEA4D3BAE29A93DA71FA03D
+2024-06-23 00:44:14 INFO  steps.AddItemToCartSteps - Product price: 2,099
+2024-06-23 00:44:14 INFO  steps.AddItemToCartSteps - Product price: 35,990
+2024-06-23 00:44:15 INFO  steps.AddItemToCartSteps - Product price: 1,699
+2024-06-23 00:44:19 INFO  steps.AddItemToCartSteps - Switched back to the original window: 0910CEE2C2ABE993BC747947DA0A2C8E
+2024-06-23 00:44:23 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:44:23 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:44:23 INFO  steps.AddItemToCartSteps - Switched to new window: C5E0A630424BA945426A7BFFA32D084B
+2024-06-23 00:44:23 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-23 00:44:23 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:44:24 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:44:24 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:44:24 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:44:24 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:44:24 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-23 00:44:24 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:44:25 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:44:25 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:44:25 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:44:29 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-23 00:44:36 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:44:36 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:44:37 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:45:28 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:45:28 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:45:28 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:45:34 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:45:34 INFO  steps.AddItemToCartSteps - Switched to new window: D58707E2FB0DBBE9DD463F4CFD1B7129
+2024-06-23 00:45:35 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:45:35 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:45:35 INFO  steps.AddItemToCartSteps - Switched to new window: 590D219784C687F0C301AEA840A152DF
+2024-06-23 00:45:35 INFO  steps.AddItemToCartSteps - Switched to new window: CD1DAEE82237D663B6A3DB8FF2A42EE9
+2024-06-23 00:45:48 INFO  steps.AddItemToCartSteps - Product price: 1,699
+2024-06-23 00:45:48 INFO  steps.AddItemToCartSteps - Product price: 5,999
+2024-06-23 00:45:52 INFO  steps.AddItemToCartSteps - Product price: 35,990
+2024-06-23 00:45:55 INFO  steps.AddItemToCartSteps - Switched back to the original window: 8F121B934E33D12DA7FD97237996E439
+2024-06-23 00:45:57 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:45:57 INFO  steps.AddItemToCartSteps - Switched to new window: 96A0AD13589BF38BC862F015A28746D9
+2024-06-23 00:45:58 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:45:58 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-23 00:45:58 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:45:59 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:45:59 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:45:59 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:45:59 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:45:59 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-23 00:45:59 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:46:00 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:46:00 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:46:00 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:46:02 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-23 00:46:09 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:46:09 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:46:10 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:46:10 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:46:10 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:46:52 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:46:52 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:46:52 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:46:59 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:46:59 INFO  steps.AddItemToCartSteps - Switched to new window: E03051D38DA4422D9E0C3F336DEDB4F9
+2024-06-23 00:46:59 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:47:00 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:47:00 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:47:05 INFO  steps.AddItemToCartSteps - Product price: 5,999
+2024-06-23 00:47:10 INFO  steps.AddItemToCartSteps - Switched back to the original window: D9F21744D9BBDE7EA3359FD1AD2DD7B7
+2024-06-23 00:47:12 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:47:12 INFO  steps.AddItemToCartSteps - Switched to new window: 99185F74DC9B16A7309D1413A549E8D8
+2024-06-23 00:47:17 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-23 00:47:24 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:47:24 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:47:25 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:47:25 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:47:25 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:48:13 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:48:13 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:48:13 INFO  steps.AddItemToCartSteps - Navigating to URL: https://www.amazon.in
+2024-06-23 00:48:19 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:48:19 INFO  steps.AddItemToCartSteps - Switched to new window: 402A816DFE08564B839BEB488D4CB822
+2024-06-23 00:48:20 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:48:20 INFO  steps.AddItemToCartSteps - Switched to new window: 43A3FEB4A3E23C6FEA0E6A38D6A0EEC4
+2024-06-23 00:48:21 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:48:21 INFO  steps.AddItemToCartSteps - Switched to new window: 169C092D11493337576FDE3D37A4A4C9
+2024-06-23 00:48:30 INFO  steps.AddItemToCartSteps - Product price: 11,850
+2024-06-23 00:48:31 INFO  steps.AddItemToCartSteps - Product price: 35,990
+2024-06-23 00:48:31 INFO  steps.AddItemToCartSteps - Product price: 5,999
+2024-06-23 00:48:37 INFO  steps.AddItemToCartSteps - Switched back to the original window: 5C85329EAF6619B0BDC382B918137E9E
+2024-06-23 00:48:38 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:48:38 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-23 00:48:38 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:48:39 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:48:39 INFO  steps.AddItemToCartSteps - Verified that the price is identical to the product page
+2024-06-23 00:48:39 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:48:39 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:48:39 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:48:39 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:48:40 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:48:40 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:48:40 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:48:41 INFO  steps.AddItemToCartSteps - Selected the first item in the list
+2024-06-23 00:48:41 INFO  steps.AddItemToCartSteps - Switched to new window: 2C177EE18912FF6C9ECDF79FA61FC192
+2024-06-23 00:48:46 INFO  steps.AddItemToCartSteps - Product price: 599
+2024-06-23 00:48:53 INFO  steps.AddItemToCartSteps - Opened the cart
+2024-06-23 00:48:53 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:48:54 INFO  steps.AddItemToCartSteps - Browser closed successfully
+2024-06-23 00:48:54 INFO  steps.AddItemToCartSteps - Tear down: Closing the browser
+2024-06-23 00:48:54 INFO  steps.AddItemToCartSteps - Browser closed successfully

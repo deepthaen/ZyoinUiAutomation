@@ -1,0 +1,39 @@
+1. What improvements would you make to the code base if you had more time?
+⁃	Handling multiple browserTypes(chrome, safari, edge, etc..,)
+⁃	Handle env.properties based on environment ( qa.prop, stage.prop, prod.prop)
+⁃	Handle web hook of feature file
+⁃	Optimise wedriver manager with all capabilities
+⁃	Adding more wait like fluent and add extra wrapper handle all web page and web elements
+⁃	Add allure or extent report to make easier for report viewing
+⁃	Add ci/cd with Jenkins or git workflow or azure pipeline
+⁃	Optimise Steps with reusable functions
+⁃	Add examples for scenario outline and handle data table
+⁃	Add excel or json util to handle test data
+
+
+2. What future enhancements would you incorporate into the Automation Framework?
+⁃	Making reusable library of UI and api
+⁃	Optimise as much possible to reshape
+⁃	Implement DB + UI + API for integration testing
+⁃	Use other open available tools like ( playwright, karate, mocha, etc..,)
+⁃	Onboard git workflow and ci/cd pipelines
+
+
+
+
+
+3. Roughly how long did it take you to complete the assessment?
+⁃	For basic hierarchy took - 30 min
+⁃	For Page objects took - 30 min
+⁃	For stepped and feature file - 30 min
+⁃	Execution and retry execution and fixes - 20 min
+
+
+4. Did you face any challenges while coding?
+⁃	Yes, As amazon.com is widely used application, on multiple runs, ip is getting blocked, I used amazon.in
+⁃	Price paths are changing when it has exchange offers
+⁃	Have skip and dismiss option while moving to cart.
+⁃	Prices having different in each screen ( pdf : 133.00, cart: 133), had to replace and assert
+⁃	Had to write common function for selecting first and second element from list
+⁃	Handled Switch window on clicking product
+

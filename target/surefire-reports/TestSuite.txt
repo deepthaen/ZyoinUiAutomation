@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 35.485 s <<< FAILURE! - in TestSuite
+runners.TestRunner.runScenario["Adding a Laptop item in the cart and verifying subtotal", "Optional[Add item to cart and verify price and subtotal]"](2)  Time elapsed: 26.982 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='a-price-whole'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.5', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 126.0.6478.115, chrome: {chromedriverVersion: 126.0.6478.63 (df799988fdc9..., userDataDir: /var/folders/r6/s_117cds1qj...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57922}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57922/devtoo..., se:cdpVersion: 126.0.6478.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 66539584e2d4afeb7e486eb61bf97125
+
